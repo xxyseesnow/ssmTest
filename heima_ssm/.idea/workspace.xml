@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="heima_ssm_web:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d5d7e0aa-7b14-4402-be19-844cb2da182c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.5.0-bin" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.0-bin\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oXyRmKU7u4s2lbJCnzEnSJA7B3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/heima_ssm_web/src/main/webapp/pages" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\120\heima_ssm\heima_ssm_web\src\main\webapp\pages" />
+      <recent name="D:\120\heima_ssm\heima_ssm_web\src\main\webapp" />
+      <recent name="D:\120\heima_ssm\heima_ssm_web\src\main\resources" />
+      <recent name="D:\120\heima_ssm\heima_ssm_web\src\main\webapp\WEB-INF" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\120\heima_ssm\heima_ssm_web\src\main\webapp" />
+      <recent name="D:\120\heima_ssm\heima_ssm_web\src\main\webapp\img" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.241">
+    <configuration name="BCryptPasswordEncoderUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.ssm.utils.BCryptPasswordEncoderUtils" />
+      <module name="heima_ssm_utils" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.ssm.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="heima-ssm-web" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/heima_ssm_web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tomcat 8.5.241" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.241" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8089/" />
+      <option name="BROWSER_ID" value="b2a9dca7-9d0b-4e1e-98a8-afb19c1328d2" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="heima_ssm_web:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_heima_ssm" />
+        <option name="HTTP_PORT" value="8089" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53137" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="heima_ssm_web:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BCryptPasswordEncoderUtils" />
+      <item itemvalue="Maven.heima-ssm-web" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.241" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BCryptPasswordEncoderUtils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.15818325" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5d7e0aa-7b14-4402-be19-844cb2da182c" name="Default Changelist" comment="" />
+      <created>1613447223210</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613447223210</updated>
+      <workItem from="1613447227990" duration="1639000" />
+      <workItem from="1613448902040" duration="7770000" />
+      <workItem from="1613828865218" duration="80000" />
+      <workItem from="1613829118826" duration="3158000" />
+      <workItem from="1614097468663" duration="40979000" />
+      <workItem from="1614347020558" duration="32417000" />
+      <workItem from="1614490213982" duration="45027000" />
+      <workItem from="1614587632203" duration="176000" />
+      <workItem from="1614587878235" duration="22714000" />
+      <workItem from="1614868650253" duration="2420000" />
+      <workItem from="1617273906314" duration="4012000" />
+      <workItem from="1617633167404" duration="5492000" />
+      <workItem from="1618145181064" duration="2577000" />
+      <workItem from="1618495528901" duration="9353000" />
+      <workItem from="1619512558851" duration="20626000" />
+      <workItem from="1622451658734" duration="292000" />
+      <workItem from="1622624739430" duration="612000" />
+      <workItem from="1622648104389" duration="756000" />
+      <workItem from="1623330951822" duration="663000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="54" key="#Project_Structure" timestamp="1622624798129">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="54" key="#Project_Structure/0.0.1366.738@0.0.1366.738" timestamp="1622624798129" />
+    <state x="140" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618497851574">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="140" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1618497851574" />
+    <state x="488" y="104" key="#com.intellij.ide.util.MemberChooser" timestamp="1614608264927">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="488" y="104" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1614608264927" />
+    <state x="420" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1614361406443">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="420" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.738@0.0.1366.738" timestamp="1614361406443" />
+    <state x="414" y="139" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1614524326852">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="414" y="139" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1614524326852" />
+    <state x="367" y="23" key="#product-list.jsp" timestamp="1614097838609">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="367" y="23" key="#product-list.jsp/0.0.1366.738@0.0.1366.738" timestamp="1614097838609" />
+    <state width="1074" height="146" key="GridCell.Tab.0.bottom" timestamp="1622625362993">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1074" height="146" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1622625362993" />
+    <state width="1074" height="146" key="GridCell.Tab.0.center" timestamp="1622625362992">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1074" height="146" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1622625362992" />
+    <state width="1074" height="146" key="GridCell.Tab.0.left" timestamp="1622625362992">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1074" height="146" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1622625362992" />
+    <state width="1074" height="146" key="GridCell.Tab.0.right" timestamp="1622625362992">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1074" height="146" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1622625362992" />
+    <state width="1074" height="146" key="GridCell.Tab.1.bottom" timestamp="1622625362993">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1074" height="146" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1622625362993" />
+    <state width="1074" height="146" key="GridCell.Tab.1.center" timestamp="1622625362993">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1074" height="146" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1622625362993" />
+    <state width="1074" height="146" key="GridCell.Tab.1.left" timestamp="1622625362993">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1074" height="146" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1622625362993" />
+    <state width="1074" height="146" key="GridCell.Tab.1.right" timestamp="1622625362993">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1074" height="146" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1622625362993" />
+    <state width="1074" height="146" key="GridCell.Tab.2.bottom" timestamp="1622625362993">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1074" height="146" key="GridCell.Tab.2.bottom/0.0.1366.738@0.0.1366.738" timestamp="1622625362993" />
+    <state width="1074" height="146" key="GridCell.Tab.2.center" timestamp="1622625362993">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1074" height="146" key="GridCell.Tab.2.center/0.0.1366.738@0.0.1366.738" timestamp="1622625362993" />
+    <state width="1074" height="146" key="GridCell.Tab.2.left" timestamp="1622625362993">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1074" height="146" key="GridCell.Tab.2.left/0.0.1366.738@0.0.1366.738" timestamp="1622625362993" />
+    <state width="1074" height="146" key="GridCell.Tab.2.right" timestamp="1622625362993">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1074" height="146" key="GridCell.Tab.2.right/0.0.1366.738@0.0.1366.738" timestamp="1622625362993" />
+    <state width="1074" height="193" key="GridCell.Tab.3.bottom" timestamp="1619615583151">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1074" height="193" key="GridCell.Tab.3.bottom/0.0.1366.738@0.0.1366.738" timestamp="1619615583151" />
+    <state width="1074" height="193" key="GridCell.Tab.3.center" timestamp="1619615583151">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1074" height="193" key="GridCell.Tab.3.center/0.0.1366.738@0.0.1366.738" timestamp="1619615583151" />
+    <state width="1074" height="193" key="GridCell.Tab.3.left" timestamp="1619615583150">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1074" height="193" key="GridCell.Tab.3.left/0.0.1366.738@0.0.1366.738" timestamp="1619615583150" />
+    <state width="1074" height="193" key="GridCell.Tab.3.right" timestamp="1619615583151">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1074" height="193" key="GridCell.Tab.3.right/0.0.1366.738@0.0.1366.738" timestamp="1619615583151" />
+    <state x="213" y="35" key="Maven.ArtifactSearchDialog" timestamp="1614490780023">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="213" y="35" key="Maven.ArtifactSearchDialog/0.0.1366.738@0.0.1366.738" timestamp="1614490780023" />
+    <state x="164" y="0" key="SettingsEditor" timestamp="1614185419037">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="164" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1614185419037" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1614497649343">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.738@0.0.1366.738" timestamp="1614497649343" />
+    <state x="375" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1617633171800">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="375" y="241" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1617633171800" />
+    <state x="57" y="115" key="new project wizard" timestamp="1619615780308">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="57" y="115" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1619615780308" />
+    <state x="321" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1614599142724">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="321" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1614599142724" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/heima_ssm_service/src/main/java/com/itheima/ssm/service/impl/ProductServiceImpl.java</url>
+          <line>18</line>
+          <properties field="productDao" class="com.itheima.ssm.service.impl.ProductServiceImpl" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/heima_ssm_web/src/main/webapp/pages/aside.jsp</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
